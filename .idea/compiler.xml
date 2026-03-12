@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
-          <entry name="$PROJECT_DIR$/../../../../../../maven/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+          <entry name="$PROJECT_DIR$/../../../../maven_jar/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
         </processorPath>
         <module name="springboot-hello" />
       </profile>
